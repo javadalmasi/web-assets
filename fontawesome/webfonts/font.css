@@ -1,0 +1,10 @@
+@font-face {
+    font-family: molla;
+    src: url('fa-regular-400.eot');
+    src: url('fa-regular-400.eot?#iefix') format('embedded-opentype'),
+         url('fa-regular-400.woff2') format('woff2'),
+         url('fa-regular-400.woff') format('woff'),
+         url('fa-regular-400.ttf') format('truetype');
+    font-weight: normal;
+  }
+  
